@@ -3,7 +3,7 @@
 Batch HDR Creation
 ******************
 
-This tool lets you creart HDR images starting from a set of bracketed photos ordered alphabetically.
+This tool lets you create HDR images starting from a set of bracketed photos ordered alphabetically.
 
 .. figure:: /images/batch-hdr.png
 
